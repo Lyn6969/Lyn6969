@@ -101,13 +101,19 @@ class 集群智能研究者:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub 数据统计
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lyn6969&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&ring_color=A960FF&locale=cn" alt="Lyn6969 的 GitHub 统计" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyn6969&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&locale=cn" alt="常用语言" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Lyn6969&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&ring_color=A960FF&locale=cn" />
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lyn6969&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&ring_color=A960FF&locale=cn" alt="Lyn6969 的 GitHub 统计" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lyn6969&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&locale=cn" />
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lyn6969&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&locale=cn" alt="常用语言" />
+  </picture>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lyn6969&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=EC4899&fire=EC4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A960FF&sideLabels=A960FF&dates=8b949e&locale=zh_Hans" alt="GitHub 连续贡献" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Lyn6969&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=EC4899&fire=EC4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A960FF&sideLabels=A960FF&dates=8b949e&locale=zh_Hans" alt="GitHub 连续贡献" />
 </div>
 
 <!-- Trophy -->
